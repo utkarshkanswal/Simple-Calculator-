@@ -9,7 +9,6 @@ body {
 
 table {
     margin: auto;
-
 }
 
 h1 {
@@ -22,16 +21,16 @@ input {
     font-size: 44px;
     border-radius: 25px;
     border: 2px solid rgb(190, 176, 176);
-
+    margin: 6px;
 }
 
 button {
     font-size: 23px;
-    background-color: rgb(165, 157, 167);
+    background-color: rgb(208, 145, 224);
     border-radius: 47px;
     width: 114px;
     height: 58px;
-    margin: 10px;
+    margin: 6px;
 }
 
 button::after {
@@ -48,5 +47,4 @@ button::after {
     background: #d068f0;
     padding: 20px;
     border-radius: 44px;
-}
 }
